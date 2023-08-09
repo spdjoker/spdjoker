@@ -30,7 +30,10 @@
 
 ---
 
-### 👨‍💻 About Me :
+<div align="center">
+  <h3>About Me 👨‍💻</h3>
+</div>
+
 I am currently a student finishing a M.S. in Computer Science at [Florida International University](https://www.fiu.edu/) :palm_tree:.
 
 - 🏗️: Working on a tool used for creating desktop applications using OpenGL and GLFW, improving the one currently public on my GitHub.
@@ -39,13 +42,12 @@ I am currently a student finishing a M.S. in Computer Science at [Florida Intern
   
 - ⚡: Reading about various computer system designs and tackling on smaller projects to expand what I know.
   
-- 📫: Contact me via any of the methods linked at the top of the site, but preferably through [![Discord](https://img.shields.io/badge/-spdjoker-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/257540402008031232)
+- 📫: Contact me via any of the methods linked at the top of the profile, but preferably through [![Discord](https://img.shields.io/badge/-spdjoker-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/257540402008031232)
 
 ---
 
 <div align="center">
-  <h3>🛠️ Languages and Tools</h3>
-  <br />  
+  <h3>Languages and Tools 🛠️</h3>
   <!-- Computer Graphics / Game Development -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="Cmake" width="40" height="40"/>&nbsp;
@@ -72,8 +74,10 @@ I am currently a student finishing a M.S. in Computer Science at [Florida Intern
 ---
 
 <div align="center">
+  <h3>Statistics 🔥</h3>
   <!-- Activity Streak -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=spdjoker&theme=github-dark&hide_border=true&card_width=600&fire=00C36F&currStreakLabel=00C36F&dates=A1A1A1&stroke=A1A1A1&ring=00C36F" title="Streak" **alt="Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=spdjoker&theme=transparent&hide_border=true&card_width=600&fire=00C36F&currStreakLabel=00C36F&dates=A1A1A1&stroke=A1A1A1&ring=00C36F" title="Streak" **alt="Streak"/>
+  <br />
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdjoker&layout=compact&theme=transparent&title_color=EEEEEE&langs_count=12&card_width=600&hide_border=true&text_color=A1A1A1" title="Most Used Languages" **alt="Most Top Languages"/>
 </div>
