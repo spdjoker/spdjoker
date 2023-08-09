@@ -76,7 +76,7 @@ I am currently a student finishing a M.S. in Computer Science at [Florida Intern
 <div align="center">
   <h3>Statistics 🔥</h3>
   <!-- Activity Streak -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=spdjoker&theme=transparent&hide_border=true&card_width=600&fire=00C36F&currStreakLabel=00C36F&dates=A1A1A1&stroke=A1A1A1&ring=00C36F" title="Streak" **alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spdjoker&theme=transparent&hide_border=true&card_width=600&fire=00C36F&currStreakLabel=00C36F&dates=A1A1A1&stroke=A1A1A1&ring=00C36F&sideLabels=EEEEEE&sideNums=EEEEEE&currStreakNum=EEEEEE" title="Streak" **alt="Streak"/>
   <br />
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdjoker&layout=compact&theme=transparent&title_color=EEEEEE&langs_count=12&card_width=600&hide_border=true&text_color=A1A1A1" title="Most Used Languages" **alt="Most Top Languages"/>
