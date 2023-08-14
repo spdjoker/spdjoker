@@ -10,7 +10,7 @@
     <a href="https://discord.com/users/257540402008031232">
       <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://www.instagram.com/jg.7213/">
+    <a href="https://www.instagram.com/spdjoker3/">
       <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
